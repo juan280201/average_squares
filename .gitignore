@@ -1,0 +1,6 @@
+/.quarto/
+__pycache__/
+_build/
+_site/
+objects.json
+reference/
