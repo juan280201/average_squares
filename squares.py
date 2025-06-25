@@ -58,5 +58,5 @@ if __name__ == "__main__":
     weights = convert_numbers(weight_strings)
     
     result = average_of_squares(numbers, weights)
-    
+
     print(result)
